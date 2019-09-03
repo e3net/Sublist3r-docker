@@ -3,7 +3,7 @@
 
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+[Sublist3r](https://github.com/aboul3la/Sublist3r) is a python tool designed to enumerate subdomains of websites using OSINT.
 
 
 ## Technologies
@@ -20,4 +20,4 @@ Add more general information about project. What the purpose of the project is? 
 
 
 ## Contact
-Created by [@en3o](https://www.en3o.pl/) - feel free to contact me!# Sublist3r-docker
+Created by [@en3o](https://www.en3o.pl/)
