@@ -14,7 +14,7 @@
 2. Pull image
 
 ## Code Examples
-    $ docker run -it --rm sublist3r:latest -d example.com`
+    $ docker run -it --rm sublist3r:latest -d example.com
 
 
 
